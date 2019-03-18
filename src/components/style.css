@@ -1,0 +1,63 @@
+.snackbar-content.danger-response {
+	background: #d32f2f;
+	margin: 0 auto 1% auto;
+}
+
+.snackbar-content.success-response {
+	background: #43a047;
+	margin: 0 auto 1% auto;
+}
+
+.snackbar-content .close-button {
+	padding: 5px 0 0 5px;
+	color: #FFFFFF;
+}
+
+.table-toolbar {
+	padding: 0 24px;
+}
+
+.table-toolbar .header-section {
+	width: 100%
+}
+
+.table-toolbar .action-section .delete-button {
+	padding: 5px 0 0 5px;
+}
+
+.table-container .edit-button {
+	padding: 5px;
+}
+
+.table-container .delete-button {
+	padding: 5px 0 0 5px;
+}
+
+.modal-section {
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	position: absolute;
+    width: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 5px 8px 0px rgba(0,0,0,0.14), 0px 1px 14px 0px rgba(0,0,0,0.12);
+    padding: 2%;
+    outline: none;
+}
+
+.modal-section.extend {
+	width: 80%;
+}
+
+.modal-section .button-section {
+	float: right;
+}
+
+.modal-section .button-section > button {
+	margin: 0 5px;
+}
+
+.select-section img {
+	height: 13px;
+	width: 25px;
+}

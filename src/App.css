@@ -1,0 +1,69 @@
+.registration-section,
+.table-section {
+  margin: 3%;
+}
+
+.registration-section {
+  padding: 3%;
+}
+
+.form-component .form-control,
+.form-component .select-section {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.form-component .select-section .MuiFormLabel-asterisk-135,
+.form-component .form-control .MuiFormLabel-asterisk-135 {
+  color: #f44336;
+}
+
+.form-component .form-control.form-label  {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.form-component .form-control.radio-component {
+  display: inline-block;
+  margin-top: -8px;
+  margin-bottom: 0;
+}
+
+.form-component .form-control .form-elements {
+  margin-bottom: 12px;
+}
+
+.form-component .select-section .form-elements {
+  font-size: inherit;
+  margin: 0;
+}
+
+.form-component .form-control.radio-component .form-elements {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.form-component .form-control.error .form-elements {
+  margin-bottom: 0;
+}
+
+.form-component .label-section {
+  line-height: 1.8em;
+}
+
+.form-component .label-section .required,
+.form-component .form-control.error .form-elements svg {
+  color: #f44336;
+}
+
+.form-component .elements {
+  padding: 20px 0;
+}
+
+.form-component .buttons {
+  text-align: right;
+}
+
+.form-component .buttons > * {
+  margin-left: 15px;
+}
